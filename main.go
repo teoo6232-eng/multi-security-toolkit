@@ -1,5 +1,11 @@
+// Complete Multi Security Toolkit
+
 package main
 
+import (
+	"fmt"
+)
+
 func main() {
-    // Entry point for the multi-security-toolkit application
+	fmt.Println("Welcome to Multi Security Toolkit")
 }
